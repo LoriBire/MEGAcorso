@@ -1,2 +1,0 @@
-# MEGAcorso
-megacorso corso udemy
